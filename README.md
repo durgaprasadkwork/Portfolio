@@ -1,123 +1,110 @@
 # portfolio
 
-👋 Hi, I’m Durgaprasad Koppala
+👋 Durgaprasad Koppala
+
 Senior Software Developer | Java | Spring Boot | Microservices | Cloud & Kubernetes
 
-📍 United States 📞 +1 779-232-3249 📧 durgaprasad.workconnect@gmail.com
+📍 United States | 📞 +1 779-232-3249 | 📧 durgaprasad.workconnect@gmail.com
 
-**🔗 LinkedIn**
+🔗 LinkedIn
 
-**🚀 About Me**
-I’m a Software Developer with 8+ years of experience building, scaling, and supporting enterprise-grade backend and full-stack applications. I specialize in Java 8/11, Spring Boot, distributed systems, and microservices, with a strong focus on JVM performance tuning, secure REST APIs, and high-throughput, event-driven architectures using Apache Kafka.
+🚀 About Me
 
-I’ve delivered business-critical systems in financial services, government, and enterprise content management, handling real-time data processing, asynchronous workflows, and cloud-native deployments on AWS, Azure, and GCP. Alongside backend development, I have built responsive React and Angular web applications, containerized services with Docker and Kubernetes, and implemented CI/CD pipelines for reliable production releases.
+Software Developer with 8+ years of experience designing, building, and supporting enterprise-grade backend and full-stack applications. Expertise in Java 8/11, Spring Boot, distributed systems, and microservices, with strong skills in JVM performance tuning, secure REST API design, and high-throughput event-driven architectures using Apache Kafka.
 
-**🛠️ Tech Stack**
+Delivered business-critical systems in financial services, government, and enterprise content management, handling real-time data processing, asynchronous workflows, and cloud-native deployments on AWS, Azure, and GCP. Also experienced in building responsive React and Angular web applications, containerized services with Docker/Kubernetes, and CI/CD pipelines for reliable production releases.
 
-_Backend & Core Java_
+🛠️ Tech Stack
 
-Java 8 / 11 | OOP, Concurrency, Multithreading | JVM tuning, GC analysis, heap & thread dump diagnostics
+Backend & Core Java
 
-_Frameworks & APIs_
+Java 8 / 11 | OOP, Concurrency, Multithreading | JVM tuning, GC analysis, heap & thread dumps
 
-Spring Boot, Spring MVC, Spring Core, Spring Data JPA, Spring Security, Spring Cloud | RESTful APIs, JAX-RS, OAuth2, JWT
+Frameworks & APIs
 
-_Messaging & Streaming_
+Spring Boot, Spring MVC, Spring Core, Spring Data JPA, Spring Security, Spring Cloud
+
+RESTful APIs, JAX-RS, OAuth2, JWT
+
+Messaging & Streaming
 
 Apache Kafka, ActiveMQ, JMS | Event-driven and asynchronous processing
 
-_Databases & Caching_
+Databases & Caching
 
 PostgreSQL, Oracle, MySQL, MongoDB | SQL tuning, schema design, transactions, Redis caching
 
-_Frontend_
+Frontend
 
 React.js (Hooks, Context API, Redux), Angular 11 | HTML5, CSS3, JavaScript/TypeScript
 
-_Cloud & DevOps_
+Cloud & DevOps
 
 AWS, Azure, GCP | Docker, Kubernetes | Jenkins, GitLab CI/CD | Linux-based deployments and monitoring
 
-**💼 Professional Experience**
+💼 Professional Experience
 
-
-**OpenText — Software Developer**
-
+OpenText — Software Developer
 📍 Menlo Park, CA | Nov 2024 – Present
-
 
 Designing and maintaining backend microservices using Java 11 & Spring Boot
 
-Building secure REST APIs with OAuth2/JWT and versioning best practices
+Building secure, versioned REST APIs with OAuth2/JWT
 
 JVM profiling, GC tuning, and resolving thread contention
 
-Event-driven pipelines with Kafka and ActiveMQ
+Kafka-based event pipelines and ActiveMQ integration
 
-Containerized deployments on Docker/Kubernetes with AWS cloud infrastructure
+Containerized deployments using Docker/Kubernetes and AWS infrastructure
 
-
-**Bank of America — Software Developer**
-
+Bank of America — Software Developer
 📍 Charlotte, NC | Feb 2023 – Oct 2024
 
+Backend services for transaction workflows and multi-level approvals
 
-Developed backend services for transaction workflows and multi-level approvals
+REST APIs and SOAP integration for legacy systems
 
-Built REST APIs and integrated with legacy SOAP systems
-
-Kafka-based real-time fraud detection and notifications
+Kafka-based real-time fraud detection
 
 Angular and React components for internal dashboards
 
-Oracle and PostgreSQL database design and optimization
+Oracle and PostgreSQL database design and query optimization
 
-
-**State of Michigan — Software Developer**
-
+State of Michigan — Software Developer
 📍 Detroit, MI | Oct 2021 – Dec 2022
 
+Java 8 Spring Boot microservices for citizen benefits platforms
 
-Built Java 8 Spring Boot microservices for citizen-facing benefits platforms
+REST APIs and Kafka integrations
 
-Designed secure REST APIs and Kafka integrations
-
-Developed Angular forms and React dashboards
+Angular forms and React dashboards
 
 PostgreSQL schema design and batch processing with Spring Batch
 
-
-**Cognine Technologies — Software Developer**
-
+Cognine Technologies — Software Developer
 📍 Hyderabad, India | Dec 2019 – Sep 2021
 
+Backend and full-stack development using Java, Spring Boot, and React
 
-Built backend and full-stack features using Java, Spring Boot, and React
+MySQL/PostgreSQL query optimization
 
-Optimized MySQL/PostgreSQL queries and API performance
+Unit and integration testing with JUnit & Mockito
 
-Implemented unit and integration tests with JUnit & Mockito
-
-
-**CTS — Software Developer / Intern**
-
+CTS — Software Developer / Intern
 📍 Hyderabad, India | Mar 2017 – Nov 2019
-
 
 Developed REST APIs, backend modules, and React UI components
 
-Supported Agile Scrum projects for enterprise applications
+Agile Scrum projects for enterprise applications
 
-
-**🎓 Education**
-
+🎓 Education
 
 Master of Science in Management Information Systems | Northern Illinois University, USA
 
 Bachelor of Science in Computers | B V Raju College, India
 
-
 🤝 Let’s Connect
+
 📞 +1 779-232-3249 | 📧 durgaprasad.workconnect@gmail.com
 
 🔗 LinkedIn
