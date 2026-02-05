@@ -15,28 +15,36 @@ I’ve delivered business-critical systems in financial services, government, an
 **🛠️ Tech Stack**
 
 _Backend & Core Java_
+
 Java 8 / 11 | OOP, Concurrency, Multithreading | JVM tuning, GC analysis, heap & thread dump diagnostics
 
 _Frameworks & APIs_
+
 Spring Boot, Spring MVC, Spring Core, Spring Data JPA, Spring Security, Spring Cloud | RESTful APIs, JAX-RS, OAuth2, JWT
 
 _Messaging & Streaming_
+
 Apache Kafka, ActiveMQ, JMS | Event-driven and asynchronous processing
 
 _Databases & Caching_
+
 PostgreSQL, Oracle, MySQL, MongoDB | SQL tuning, schema design, transactions, Redis caching
 
 _Frontend_
+
 React.js (Hooks, Context API, Redux), Angular 11 | HTML5, CSS3, JavaScript/TypeScript
 
 _Cloud & DevOps_
+
 AWS, Azure, GCP | Docker, Kubernetes | Jenkins, GitLab CI/CD | Linux-based deployments and monitoring
 
 **💼 Professional Experience**
 
+
 **OpenText — Software Developer**
 
 📍 Menlo Park, CA | Nov 2024 – Present
+
 
 Designing and maintaining backend microservices using Java 11 & Spring Boot
 
@@ -48,9 +56,11 @@ Event-driven pipelines with Kafka and ActiveMQ
 
 Containerized deployments on Docker/Kubernetes with AWS cloud infrastructure
 
+
 **Bank of America — Software Developer**
 
 📍 Charlotte, NC | Feb 2023 – Oct 2024
+
 
 Developed backend services for transaction workflows and multi-level approvals
 
@@ -62,9 +72,11 @@ Angular and React components for internal dashboards
 
 Oracle and PostgreSQL database design and optimization
 
+
 **State of Michigan — Software Developer**
 
 📍 Detroit, MI | Oct 2021 – Dec 2022
+
 
 Built Java 8 Spring Boot microservices for citizen-facing benefits platforms
 
@@ -74,9 +86,11 @@ Developed Angular forms and React dashboards
 
 PostgreSQL schema design and batch processing with Spring Batch
 
+
 **Cognine Technologies — Software Developer**
 
 📍 Hyderabad, India | Dec 2019 – Sep 2021
+
 
 Built backend and full-stack features using Java, Spring Boot, and React
 
@@ -84,19 +98,24 @@ Optimized MySQL/PostgreSQL queries and API performance
 
 Implemented unit and integration tests with JUnit & Mockito
 
+
 **CTS — Software Developer / Intern**
 
 📍 Hyderabad, India | Mar 2017 – Nov 2019
+
 
 Developed REST APIs, backend modules, and React UI components
 
 Supported Agile Scrum projects for enterprise applications
 
+
 **🎓 Education**
+
 
 Master of Science in Management Information Systems | Northern Illinois University, USA
 
 Bachelor of Science in Computers | B V Raju College, India
+
 
 🤝 Let’s Connect
 📞 +1 779-232-3249 | 📧 durgaprasad.workconnect@gmail.com
