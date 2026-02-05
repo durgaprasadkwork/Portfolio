@@ -1,114 +1,99 @@
 # portfolio
 
-👋 Hi, I’m **Durgaprasad Koppala**
-Senior Software Developer | Java | Spring Boot | Distributed Systems | Cloud & Kubernetes
+👋 Hi, I’m Durgaprasad Koppala
+Senior Software Developer | Java | Spring Boot | Microservices | Cloud & Kubernetes
 
-📍 United States
-📞 +1 779-232-3249
-📧 durgaprasad.workconnect@gmail.com
+📍 United States 📞 +1 779-232-3249 📧 durgaprasad.workconnect@gmail.com
 
-🔗 **LinkedIn**
+🔗 LinkedIn
 
-🚀 **About** **Me**
-I’m a Software Developer with 9+ years of experience building, scaling, and supporting enterprise-grade backend, full-stack, and mobile applications. My core strength lies in Java-based backend systems, JVM performance tuning, and designing reliable, secure, and scalable services used in real production environments.
+🚀 About Me
+I’m a Software Developer with 8+ years of experience building, scaling, and supporting enterprise-grade backend and full-stack applications. I specialize in Java 8/11, Spring Boot, distributed systems, and microservices, with a strong focus on JVM performance tuning, secure REST APIs, and high-throughput, event-driven architectures using Apache Kafka.
 
-I’ve worked extensively on business-critical systems handling high traffic, real-time data processing, and asynchronous workflows. My experience spans distributed systems, microservices, event-driven architectures, and cloud-native deployments using AWS, Docker, and Kubernetes.
+I’ve delivered business-critical systems in financial services, government, and enterprise content management, handling real-time data processing, asynchronous workflows, and cloud-native deployments on AWS, Azure, and GCP. Alongside backend development, I have built responsive React and Angular web applications, containerized services with Docker and Kubernetes, and implemented CI/CD pipelines for reliable production releases.
 
-Alongside backend engineering, I’ve built React and Angular web applications and developed native Android applications using Java and Kotlin. I enjoy working close to production, debugging complex issues, and improving system performance, stability, and maintainability.
+🛠️ Tech Stack
 
-🛠️ **Tech** **Stack**
+Backend & Core Java
+Java 8 / 11 | OOP, Concurrency, Multithreading | JVM tuning, GC analysis, heap & thread dump diagnostics
 
-_Backend & Core Java_
-Java 8 / 11
-Object-Oriented Design, Concurrency, Multithreading
-JVM tuning, GC analysis, heap & thread dump analysis
+Frameworks & APIs
+Spring Boot, Spring MVC, Spring Core, Spring Data JPA, Spring Security, Spring Cloud | RESTful APIs, JAX-RS, OAuth2, JWT
 
-_Frameworks & APIs_
-Spring Boot, Spring MVC, Spring Core, Spring Data JPA
-Spring Security, Spring Cloud
-RESTful APIs, JAX-RS, OAuth2, JWT
+Messaging & Streaming
+Apache Kafka, ActiveMQ, JMS | Event-driven and asynchronous processing
 
-_Messaging & Streaming_
-Apache Kafka, ActiveMQ, JMS
-Event-driven and asynchronous processing
+Databases & Caching
+PostgreSQL, Oracle, MySQL, MongoDB | SQL tuning, schema design, transactions, Redis caching
 
-_Databases & Caching_
-PostgreSQL, Oracle, MySQL, DB2
-MongoDB
-SQL tuning, schema design, transactional consistency
+Frontend
+React.js (Hooks, Context API, Redux), Angular 11 | HTML5, CSS3, JavaScript/TypeScript
 
-_Frontend_
-React.js (Hooks, Context API, Redux)
-Angular 11
-HTML5, CSS3, JavaScript (ES6+)
+Cloud & DevOps
+AWS, Azure, GCP | Docker, Kubernetes | Jenkins, GitLab CI/CD | Linux-based deployments and monitoring
 
-_Mobile_
-Android (Java, Kotlin)
-Jetpack Compose, MVVM, MVI
-Firebase Cloud Messaging, Google Maps SDK
-
-_Cloud & DevOps_
-AWS: EC2, S3, Lambda, IAM, Security Groups
-Docker, Kubernetes
-Jenkins, GitLab CI/CD
-Linux-based deployments and monitoring
-
-**💼 Professional Experience**
+💼 Professional Experience
 
 OpenText — Software Developer
-
 📍 Menlo Park, CA | Nov 2024 – Present
 
-Designing and owning backend services using Java 11 and Spring Boot
-Building secure and versioned REST APIs for distributed systems
-JVM profiling to resolve memory leaks, GC pressure, and thread contention
-Kafka-based real-time event processing and data pipelines
-Containerized deployments using Docker and Kubernetes
-AWS-based infrastructure and CI/CD automation
+Designing and maintaining backend microservices using Java 11 & Spring Boot
 
-Oncourse Home Solutions — Android Application Developer
+Building secure REST APIs with OAuth2/JWT and versioning best practices
 
-📍 Naperville, IL | Feb 2023 – Oct 2024
+JVM profiling, GC tuning, and resolving thread contention
 
-Developed native Android applications using Java and Kotlin
-Implemented modern Android architectures (MVVM, MVI)
-Integrated REST APIs, offline storage, and real-time notifications
-Optimized performance and stability for production mobile apps
+Event-driven pipelines with Kafka and ActiveMQ
+
+Containerized deployments on Docker/Kubernetes with AWS cloud infrastructure
+
+Bank of America — Software Developer
+📍 Charlotte, NC | Feb 2023 – Oct 2024
+
+Developed backend services for transaction workflows and multi-level approvals
+
+Built REST APIs and integrated with legacy SOAP systems
+
+Kafka-based real-time fraud detection and notifications
+
+Angular and React components for internal dashboards
+
+Oracle and PostgreSQL database design and optimization
 
 State of Michigan — Software Developer
-
 📍 Detroit, MI | Oct 2021 – Dec 2022
 
-Built Java 8 Spring Boot microservices for government platforms
-Designed secure REST APIs and Kafka-based integrations
-Supported Angular UI components and PostgreSQL databases
+Built Java 8 Spring Boot microservices for citizen-facing benefits platforms
+
+Designed secure REST APIs and Kafka integrations
+
+Developed Angular forms and React dashboards
+
+PostgreSQL schema design and batch processing with Spring Batch
 
 Cognine Technologies — Software Developer
-
 📍 Hyderabad, India | Dec 2019 – Sep 2021
 
-Developed backend and full-stack features using Java and Spring Boot
-Built REST APIs and React-based UI components
-Improved database performance through SQL tuning
+Built backend and full-stack features using Java, Spring Boot, and React
+
+Optimized MySQL/PostgreSQL queries and API performance
+
+Implemented unit and integration tests with JUnit & Mockito
 
 CTS — Software Developer / Intern
-
 📍 Hyderabad, India | Mar 2017 – Nov 2019
 
-Contributed to backend and web application development
-Built REST APIs, UI components, and unit tests
-Worked in Agile Scrum teams on enterprise projects
+Developed REST APIs, backend modules, and React UI components
 
-🎓 **Education**
+Supported Agile Scrum projects for enterprise applications
 
-Master of Science in Management Information Systems
-Northern Illinois University, USA
+🎓 Education
 
-Bachelor of Science in Computers
-B V Raju College, India
+Master of Science in Management Information Systems | Northern Illinois University, USA
+
+Bachelor of Science in Computers | B V Raju College, India
 
 🤝 Let’s Connect
-📞 +1 779-232-3249
-📧 durgaprasad.workconnect@gmail.com
+📞 +1 779-232-3249 | 📧 durgaprasad.workconnect@gmail.com
 
 🔗 LinkedIn
